@@ -21,16 +21,6 @@
 
   <h3 align="center">ProShop</h3>
 
-  <p align="center">
-    An eCommerce web application created with MERN stack.
-    <br />
-    <a href="https://github.com/killer4639/ProShop"><strong>Explore the docs »</strong></a>
-    <br />
-    ·
-    <a href="https://github.com/killer4639/ProShop/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/killer4639/ProShop/issues">Request Feature</a>
-  </p>
 </p>
 
   
@@ -95,18 +85,13 @@ To get a local copy up and running follow these simple example steps.
 
 ### Installation
 
-1. Clone the repo
-   ```
-   $ git clone https://github.com/killer4639/ProShop.git
-   $ cd Proshop
-   ```
-2. Install requirements
+1. Install requirements
    ```
    $ npm install
    $ cd frontend/
    $ npm install
    ```
-3. Run Application
+2. Run Application
 
    ```
    $ npm run dev
@@ -121,18 +106,5 @@ Contributions are what make the open source community such an amazing place to b
 <!-- ACKNOWLEDGEMENTS -->
 
 <!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/killer4639/ProShop.svg?style=for-the-badge
-[contributors-url]: https://github.com/killer4639/ProShop/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/killer4639/ProShop.svg?style=for-the-badge
-[forks-url]: https://github.com/killer4639/ProShop/network/members
-[stars-shield]: https://img.shields.io/github/stars/killer4639/ProShop.svg?style=for-the-badge
-[stars-url]: https://github.com/killer4639/ProShop/stargazers
-[issues-shield]: https://img.shields.io/github/issues/killer4639/ProShop.svg?style=for-the-badge
-[issues-url]: https://github.com/killer4639/ProShop/issues
-[license-shield]: https://img.shields.io/github/license/killer4639/ProShop.svg?style=for-the-badge
-[license-url]: https://github.com/killer4639/ProShop/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/shiva-gupta-1843b6170/
 
